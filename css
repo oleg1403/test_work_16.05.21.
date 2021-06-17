@@ -1,0 +1,52 @@
+body {
+  padding: 150px;
+  font-size: 24px;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  border: 2px solid gray;
+  border-spacing: 0px;
+  border-collapse: collapse;
+  margin: 0px 0px 150px 0px;
+}
+
+td {
+  border: 2px solid gray;
+}
+
+ul {
+  margin: 5px 0px 100px 0px;
+}
+
+li {
+  padding: 0px 10px;
+}
+
+.head {
+  text-align: center;
+}
+
+.column_1 {
+  text-align: center;
+  width: 30%;
+}
+
+.table_picture {
+  width: 80%;
+}
+
+.text_PDF {
+  padding: 10px 50px;
+}
+
+.picture {
+  padding: 0px 0px 20px 0px;
+  float: left;
+  width: 36%;
+}
+
+.last_part_text {
+  font-size: 30px;
+}
